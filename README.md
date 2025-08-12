@@ -17,6 +17,8 @@ Includes ❤️ favorites, 🔍 search, onboarding, and splash screens. Fully re
 
 ## 🛠 Getting Started
 
+## 🛠 Getting Started
+
 ### 📋 Prerequisites
 - Flutter SDK ≥ 3.7.2  
 - Enable Flutter web support:  
@@ -54,15 +56,13 @@ lib/
 Uses MediaQuery 📐 and relative sizing to adapt UI on all devices — optimized for Chrome/web.
 
 🚀 Deploy to Netlify
-Build your Flutter web app:
-
+1️⃣ Build your Flutter web app:
 bash
 Copy
 Edit
 flutter build web
-Deploy using Netlify:
-
-Drop deployment: Drag & drop build/web folder at Netlify Drop
+2️⃣ Deploy using Netlify:
+Drop deployment: Drag & drop the build/web folder at Netlify Drop
 
 Git deployment:
 
@@ -70,8 +70,15 @@ Push project to GitHub
 
 On Netlify, connect the repo
 
-Build command: flutter build web
+Build command:
 
-Publish directory: build/web
+bash
+Copy
+Edit
+flutter build web
+Publish directory:
 
-Your app will then be live at a 🌐 Netlify-provided URL.
+bash
+Copy
+Edit
+build/web
