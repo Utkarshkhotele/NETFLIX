@@ -23,3 +23,34 @@ Includes ❤️ favorites, 🔍 search, onboarding, and splash screens. Fully re
 ```bash
 flutter config --enable-web
 flutter devices
+
+▶ Run App (Mobile)
+flutter pub get
+flutter run
+
+🌐 Run App (Web)
+flutter run -d chrome
+
+📏 Responsive Design
+Uses MediaQuery 📐 and relative sizing to adapt UI on all devices — fully responsive and optimized for Chrome/web.
+
+🚀 Deploy to Netlify
+1️⃣ Build your Flutter web app:
+flutter build web
+2️⃣ Deploy using Netlify:
+Drop Deployment: Drag & drop the build/web folder at Netlify Drop
+
+Git Deployment:
+Push project to GitHub
+On Netlify, connect the repo
+
+Build command:
+flutter build web
+
+Publish directory:
+build/web
+
+✅ Your app will be live at a 🌐 Netlify-provided URL.
+
+
+
