@@ -35,9 +35,11 @@ flutter run -d chrome
 Uses MediaQuery 📐 and relative sizing to adapt UI on all devices — fully responsive and optimized for Chrome/web.
 
 🚀 Deploy to Netlify
-1️⃣ Build your Flutter web app:
+
+Build your Flutter web app:
 flutter build web
-2️⃣ Deploy using Netlify:
+
+Deploy using Netlify:
 Drop Deployment: Drag & drop the build/web folder at Netlify Drop
 
 Git Deployment:
