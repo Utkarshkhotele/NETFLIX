@@ -4,6 +4,9 @@ A responsive Netflix-style Flutter app 🎥 showcasing trending, top-rated, and 
 Includes ❤️ favorites, 🔍 search, onboarding, and splash screens. Fully responsive for 📱 mobile, 💻 tablet, and 🌐 web (Chrome).
 
 ---
+## 🔗 Demo  
+Try it here: [http://quiet-druid-6acadc.netlify.app](http://quiet-druid-6acadc.netlify.app)
+---
 
 ## ✨ Features
 - 🚀 **Splash & Onboarding** flow with Lottie animations  
