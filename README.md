@@ -9,7 +9,12 @@ Includes ❤️ favorites, 🔍 search, onboarding, and splash screens. Fully re
 
 ---
 
-
+## ✨ Features
+- 🚀 **Splash & Onboarding** flow with Lottie animations  
+- 📊 **Trending**, ⭐ **Top Rated**, and ⏳ **Upcoming** movie sections  
+- 🎯 Movie details with overview, rating, and release date  
+- ❤️ **Favorites (Watchlist)** management  
+- 🔍 Search movies via TMDB API  
 - 📱💻 **Fully responsive** layout for mobile, tablet, and web  
 
 ---
